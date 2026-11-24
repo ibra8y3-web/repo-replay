@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 5cc27f887aedad4e6309a5338a63b0b3b4421beb Ibrahim Ali <ibrahim@example.com> 1795529927 +0200	commit (initial): Initial scaffold: git extraction, chapter detection, HTML renderer
+5cc27f887aedad4e6309a5338a63b0b3b4421beb c663071e194c4bcf6a8527a9f0510bc38818d4bc Ibrahim Ali <ibrahim@example.com> 1795529935 +0200	commit: Add README, roadmap, CI
+c663071e194c4bcf6a8527a9f0510bc38818d4bc 40908a9232e57092d489102063d4a3deada93612 Ibrahim Ali <ibrahim@example.com> 1795529937 +0200	commit: Add example output
